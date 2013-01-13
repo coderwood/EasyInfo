@@ -1,0 +1,4 @@
+EasyInfo
+========
+
+Everything is easy
